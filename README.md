@@ -2,8 +2,8 @@
 **CyberAI**
 CyberAI is a Python-based cyber security tool that leverages the power of natural language processing and network monitoring to detect and analyze cyber threats within a network. This tool uses OpenAI's GPT-3.5 model to analyze network traffic and identify potential security risks, providing real-time insights and recommendations to enhance network security.
 
-**Key Features:
-**
+**Key Features:**
+
 Real-time network traffic analysis using PyShark library
 Integration with OpenAI's GPT-3.5 model for natural language processing
 Detection of malicious traffic and potential security threats
